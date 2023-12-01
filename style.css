@@ -155,7 +155,7 @@ h2 {
 /* .item.flipped {
     transform: rotateY(180deg);
 } */
-.flipped ::after,
+.flipped::after,
 .isMatch::after {
     transform: rotateY(180deg);
 }
